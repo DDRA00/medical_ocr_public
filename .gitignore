@@ -1,0 +1,11 @@
+build/
+__pycache__/
+dist/
+.vscode/
+log/
+error_images/
+.venv/
+.exe
+*.pyc
+test/*
+Release/*
