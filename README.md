@@ -1,5 +1,6 @@
 # Medical_OCR
 
+
 - Quick setup
     1. get administrator permission
     2. download devcon.exe
